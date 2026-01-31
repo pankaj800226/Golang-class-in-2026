@@ -1,0 +1,18 @@
+package main
+
+import (
+	"fmt"
+)
+
+
+
+func main() {
+	fmt.Println("hello")
+	fmt.Println(2 + 2)
+	fmt.Println(2.5)
+	fmt.Println(2 * 5)
+	fmt.Println(2 / 5)
+	fmt.Println(2 - 5)
+	fmt.Println(true)
+	fmt.Println(false)
+}
